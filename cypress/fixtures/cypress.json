@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://www.airbnb.com",
+  "integrationFolder": "cypress/integration",
+  "supportFile": "cypress/support/commands.js"
+}
