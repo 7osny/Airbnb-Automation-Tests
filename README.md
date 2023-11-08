@@ -11,7 +11,7 @@ This project contains Cypress tests for Airbnb using two different scenarios.
 ```bash
 npm install 
 npm install cypress --save-dev
-
+```
 ## Run the test
 
 npx cypress open
